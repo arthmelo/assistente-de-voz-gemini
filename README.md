@@ -24,16 +24,16 @@ Síntese: Conversão da resposta em áudio via gTTS (Google Text-to-Speech).
 ## Tecnologias e Bibliotecas
 O projeto utiliza as seguintes dependências principais:
 
-IA & Processamento:
+### IA & Processamento:
 
-google-genai: Integração com o modelo Gemini.
-openai-whisper: Transcrição de áudio de alta precisão.
+- google-genai: Integração com o modelo Gemini.
+- openai-whisper: Transcrição de áudio de alta precisão.
 
-Áudio & Interface:
+### Áudio & Interface:
 
-gTTS: Conversão de texto para fala.
-IPython.display & google.colab: Manipulação de interface e saída de áudio no notebook.
+- gTTS: Conversão de texto para fala.
+- IPython.display & google.colab: Manipulação de interface e saída de áudio no notebook.
 
-Utilitários:
+### Utilitários:
 
-os, base64: Manipulação de arquivos e codificação de dados.
+- os, base64: Manipulação de arquivos e codificação de dados.
