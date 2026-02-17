@@ -21,16 +21,6 @@ Síntese: Conversão da resposta em áudio via gTTS (Google Text-to-Speech).
 - Resposta por voz (Text-to-Speech).
 - Suporte a múltiplos idiomas
 
-## Bibliotecas necessárias 
-
-- import whisper
-- import os
-- from gtts import gTTS
-- from google import genai
-- from IPython.display import Javascript, Audio
-- from google.colab import output
-- from base64 import b64decode
-
 ## Tecnologias e Bibliotecas
 O projeto utiliza as seguintes dependências principais:
 
